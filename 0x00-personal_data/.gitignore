@@ -1,0 +1,3 @@
+--promptPersonal data/*
+env/*
+__pycache__/*
